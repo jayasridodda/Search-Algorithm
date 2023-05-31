@@ -112,8 +112,12 @@ else:
 
 ```
 ## Sample Input and Output
-
-
+# (i) Use a linear search method to match the item in a list.
+![Screenshot (22)](https://github.com/jayasridodda/Search-Algorithm/assets/123259278/add70778-4179-4387-a10d-2cbe61505aa7)
+# (ii)Find the element in a list using Binary Search(Iterative Method).
+![Screenshot (23)](https://github.com/jayasridodda/Search-Algorithm/assets/123259278/7e332277-de1f-4053-a5aa-590cb3d4547f)
+# (iii)Find the element in a list using Binary Search (recursive Method).
+![Screenshot (24)](https://github.com/jayasridodda/Search-Algorithm/assets/123259278/7e7b7e23-ee2b-4847-b3bc-a91407644c6c)
 
 
 
